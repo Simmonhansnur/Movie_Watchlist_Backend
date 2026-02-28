@@ -1,26 +1,3 @@
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br />
-<div align="center">
-<h3 align="center">🎬 Movie Watchlist Backend API</h3>
-<p align="center">
-  A production-oriented RESTful backend API with authentication, Redis caching, structured logging, rate limiting, and cloud-native integration.
-  <br /><br />
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO"><strong>View Repository »</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.postman.com/YOUR_POSTMAN_LINK"><strong>View Postman Collection »</strong></a>
-</p>
-</div>
-
----
 
 ## 📌 About The Project
 
